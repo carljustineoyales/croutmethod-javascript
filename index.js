@@ -102,6 +102,7 @@ startCroutMethod = (A, B) => {
       "\n\n-------- Using Forward Substitution ----------",
       "\n\nY:\n",
       Y,
+      "\n\n-------- Using Backward Substitution ----------",
       "\n\nX:\n",
       X
     );
